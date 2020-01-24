@@ -1,0 +1,2 @@
+# MINEFORK-X
+Developers begins work on MINEFORK X (a 0-fee Futures Exchange to rival Bitmex), with its primary trading pair being BTC. MINEFORK X is a major endeavor and will be one of MINEFORK major focuses over the coming years. It alone can drive major demand for BTC, and enormously empower apps both in the realm of cryptocurrency exchanges, and as a cryptocurrency platform at large. There is no firm estimated release date yet, but launch is tentatively planned for Q3 2020
